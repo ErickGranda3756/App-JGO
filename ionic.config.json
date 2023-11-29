@@ -1,0 +1,7 @@
+{
+  "name": "dicolaic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
